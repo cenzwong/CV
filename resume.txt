@@ -1,0 +1,58 @@
+Cenz, 
+Wong Tsz Ho
+: cenz@engineer.com 
+: @cenzwong
+: @cenzwong
+: +44 07803 453 314
+12-Jun-23[cenzwong.github.io/CV ] Creativity -Endurance -Networking -Zeal Curriculum Vitae🎓EDUCATION
+MSc in Big Data Technology 
+The Hong Kong University of Science and Technology      
+[2020 –2022]
+✓Data Analytics Techniques
+✓Time Series Analysis
+✓Distributed Computing
+✓Parallel Computing
+✓Natural Language Processing
+✓Machine Learning
+BEng(Hons) in Electronic and Information Engineering
+The Hong Kong Polytechnic University [2015 –2020]
+✓Machine Learning and IoT
+✓Circuit Analysis and Logic Design
+✓Embedded System Programming
+✓Microcontroller System and Interface Design
+May 2019
+|
+Aug 2018Aug 2019
+|
+Jul 2019Dec 2021
+|
+Jun 2020Now
+|
+Dec 2021💼WORK EXPERIENCES
+👨‍💻Consultant inData Engineering &Architecture 🏢Ekimetrics Hong Kong Ltd.
+•Ledcustomer segmentation MLproject forHong Kong property company utilising Databricks, constructing an
+RFMclustering model thatsegmented millions ofcustomers, enabling targeted marketing strategies, carrying out
+dataanalysis, andestablishing aproduction pipeline ;
+•Constructed adata engineering pipeline foraworldwide automobile firmonAzure ,converting leads-to-sales
+reports from 17countries, guaranteeing dataquality, devising zoning, andemploying Databricks fordataintake ;
+•Designed serverless ingestion pipeline forEuropean digital automation andenergy management company using
+AWS Lambda, conducting quality checks ontables, andcreating datamodel forAWS Data Warehousing Solution ;
+•Developed anddeployed awebdashboard fortheEuropean Country Chamber ofCommerce inHong Kong,
+carrying outdata processing andwebscraping, using thePlotly Dash framework ,andcontainerised technology
+forswifter website deployment ;
+•Planned andimplemented GDPR compliance foraFrench carmanufacturer ,retrieved filesfrom SFTP, sorted
+them intocustom folders, andautomated decryption, decompression, anddeletion ;
+•Provide on-siteconsulting forData Analytics team.Developed anddelivered face-to-facetraining onDatabricks
+fordataengineering andmachine learning toaglobal luxury brand
+👨‍💻Engr Project Specialist I(Innovation Lab)🏢Hewlett Packard Enterprise
+•Provided technology consulting around HPE Enterprise -grade Lakehouse Platform –HPE Ezmeral Portfolio
+(Kubernetes, MLOps, DataFabric–MapR )withcloud-native analytics anddatawarehouse solution ;
+•Builtdemo andProof-of-Concept ofMachine Learning andData Pipeline using Python, ETLPipeline (PySpark ),
+andother Open-Source Technologies (Hadoop, Hue, Hive, Kafka etc)withHPEEzmeral ;
+•Were responsible forproviding technical support inthecreation anddelivery oftechnology solutions orData
+Platform designed tomeetcustomers’ business needs ;
+👨‍💻Business Engineer Summer Intern🏢Wuxi Murata Electronics Co.,Ltd
+•Developed RPA(Robot Process Automation) solution thatautomated repetitive HRtasks;
+👨‍💻Electronic Engineer Trainee (Gap -Year Intern) 🏢RFTech Ltd
+•Developed product ofLoRa, NB-IoTandProduct Development forData Visualization Platform with M2M
+communication protocols likeMQTT ;Firmware programming onIoTsystem ofSelf-service Library Station ;
